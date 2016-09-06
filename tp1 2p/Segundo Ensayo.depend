@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473098289 source:c:\users\nhg\desktop\facultad\segundo ensayo\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1473097356 c:\users\nhg\desktop\facultad\segundo ensayo\menu.h
+
+1473098317 source:c:\users\nhg\desktop\facultad\segundo ensayo\menu.c
+
