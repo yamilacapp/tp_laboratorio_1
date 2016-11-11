@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1478722538 source:h:\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+	"Validaciones.h"
+
+1478719206 h:\trabajopractico4\arraylist.h
+
+1478719146 h:\trabajopractico4\employee.h
+
+1478719146 h:\trabajopractico4\parser.h
+
+1478722820 h:\trabajopractico4\validaciones.h
+
+1478723268 source:h:\trabajopractico4\validaciones.c
+	"ArrayList.h"
+
+1478719164 source:h:\trabajopractico4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1478719146 source:h:\trabajopractico4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1478719146 source:h:\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+
