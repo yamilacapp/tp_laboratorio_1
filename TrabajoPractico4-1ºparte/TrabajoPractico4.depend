@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1479864600 source:h:\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+	"Validaciones.h"
+	"Archivo.h"
+
+1479862884 h:\trabajopractico4\arraylist.h
+
+1479863536 h:\trabajopractico4\employee.h
+
+1479863776 h:\trabajopractico4\parser.h
+
+1479863640 h:\trabajopractico4\validaciones.h
+
+1479863640 source:h:\trabajopractico4\validaciones.c
+	"ArrayList.h"
+
+1479839920 source:h:\trabajopractico4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479864712 source:h:\trabajopractico4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1479864678 source:h:\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+
+1479133408 source:e:\trabajopractico4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1478719206 e:\trabajopractico4\arraylist.h
+
+1479132680 e:\trabajopractico4\employee.h
+
+1478719146 source:e:\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+
+1478719146 e:\trabajopractico4\parser.h
+
+1478723268 source:e:\trabajopractico4\validaciones.c
+	"ArrayList.h"
+
+1479135188 source:e:\trabajopractico4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479136282 source:e:\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+	"Validaciones.h"
+
+1478722820 e:\trabajopractico4\validaciones.h
+
+1479135188 source:f:\trabajopractico4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1478719206 f:\trabajopractico4\arraylist.h
+
+1479309880 source:f:\trabajopractico4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1479309930 f:\trabajopractico4\employee.h
+
+1478719146 source:f:\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+
+1478719146 f:\trabajopractico4\parser.h
+
+1478723268 source:f:\trabajopractico4\validaciones.c
+	"ArrayList.h"
+
+1479309974 source:f:\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+	"Validaciones.h"
+
+1478722820 f:\trabajopractico4\validaciones.h
+
+1479864070 source:h:\trabajopractico4\archivo.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1479863948 h:\trabajopractico4\archivo.h
+
